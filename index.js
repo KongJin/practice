@@ -4,9 +4,6 @@ console.log("1");
 
 console.log("1");
 
-console.log("Main");
-console.log("dev");
+console.log("3");
 
-console.log("dev2");
-
-console.log("dev3");
+console.log("4");
